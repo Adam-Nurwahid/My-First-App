@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="description">Deskripsi</string>
+    <string name="language_name">Nama Program</string>
+    <string name="user_name">Adam Toyib Nurwahid</string>
+    <string name="email">adamajalah12345@gmail.com</string>
+    <string name="email_pengguna">adamajalah12345@gmail.com</string>
+    <string name="nama_pengguna">Adam Toyib Nurwahid</string>
+
+
+    <string-array name="data_name">
+        <item>C++</item>
+        <item>CSS</item>
+        <item>HTML</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>MySql</item>
+        <item>Php</item>
+        <item>Python</item>
+        <item>React</item>
+        <item>Ruby</item>
+    </string-array>
+
+    <string-array name="data_description">
+         <item><p>C++ adalah bahasa pemrograman yang kuat dan serbaguna yang digunakan dalam berbagai aplikasi, termasuk perangkat lunak sistem, permainan video, perangkat lunak jaringan, dan aplikasi desktop.
+Bahasa ini berfokus pada kinerja tinggi dan pengendalian langsung  \n terhadap perangkat keras, yang membuatnya populer dalam pengembangan perangkat lunak tertanam dan sistem real-time.
+C++ memiliki dukungan kuat untuk pemrograman berorientasi objek dan memungkinkan pengembang untuk mengelola memori secara manual.</p> Pemrograman C++ adalah bahasa pemrograman yang umum digunakan untuk pengembangan perangkat lunak. Ini adalah bahasa pemrograman yang bersifat tingkat tinggi, kompiler, dan berorientasi objek, yang berarti Anda dapat menggunakan C++ untuk mengembangkan berbagai jenis aplikasi, mulai dari perangkat lunak desktop hingga perangkat lunak sistem hingga permainan.
+
+Berikut beberapa poin penting tentang pemrograman C++:
+
+Sintaksis C++: C++ adalah turunan dari bahasa C, jadi sintaksisnya mirip.\n Namun, C++ menambahkan banyak fitur baru dan memperluas kemampuan C, seperti dukungan untuk pemrograman berorientasi objek.
+
+Pemrograman Berorientasi Objek (OOP): C++ mendukung konsep pemrograman berorientasi objek, yang memungkinkan Anda untuk mengorganisasi kode dalam objek yang memiliki atribut (data) dan metode (fungsi). OOP membantu dalam memahami, merancang, dan memelihara kode dengan lebih baik.
+
+Deklaratif dan Imperatif: C++ mendukung paradigma pemrograman deklaratif dan imperatif. Anda dapat menggunakan pendekatan deklaratif untuk menyatakan apa yang Anda inginkan dilakukan, dan Anda juga dapat menggunakan pendekatan imperatif untuk mengontrol secara rinci bagaimana melakukan tugas tertentu.
+
+Efisiensi: C++ dikenal karena efisiensinya.\n Ini memberikan kontrol tingkat rendah atas sumber daya perangkat keras dan memungkinkan pengoptimalan yang lebih baik. Karena itu, C++ sering digunakan untuk pengembangan perangkat lunak yang membutuhkan kinerja tinggi, seperti permainan, mesin virtual, dan perangkat lunak tertanam.
+
+Pustaka Standar C++: C++ dilengkapi dengan Pustaka Standar C++ (STL) yang kaya, yang mencakup berbagai jenis struktur data dan algoritma yang siap digunakan, seperti vektor, deque, daftar tautan, dan algoritma pencarian dan pengurutan. STL membantu pengembang untuk menulis kode dengan cepat dan efisien.
+
+Portabilitas: Kode C++ yang ditulis dengan benar dapat menjadi relatif portabel antara berbagai platform, asalkan Anda tidak bergantung pada fitur yang sangat bergantung pada platform tertentu.
+
+Komunitas dan Dokumentasi: C++ memiliki komunitas yang besar dan aktif, serta berbagai sumber daya yang dapat membantu pemula dan pengembang berpengalaman. Ada banyak buku, tutorial, forum, dan situs web yang dapat membantu dalam memahami dan menguasai bahasa ini.
+
+Kompatibilitas Kembali: C++ umumnya mendukung kompatibilitas kembali dengan C.\n Ini berarti Anda dapat memadukan kode C dengan kode C++ dalam proyek yang sama.
+
+C++ adalah bahasa yang sangat kuat, tetapi juga memerlukan pemahaman yang mendalam.\n Proyek C++ yang lebih besar seringkali melibatkan manajemen sumber daya yang lebih rumit, seperti memori dinamis, yang memerlukan pemahaman yang baik tentang konsep-konsep tersebut.</item>
+        //c++
+        <item>CSS, atau Cascading Style Sheets, adalah bahasa pemrograman yang digunakan untuk mengendalikan tampilan dan gaya elemen-elemen HTML dan XML di halaman web. CSS memungkinkan pengembang web untuk memisahkan struktur konten (HTML) dari presentasi (tampilan), sehingga memungkinkan pengembangan web yang lebih modular dan mudah dikelola. Berikut adalah beberapa poin penting tentang CSS:
+
+            Selektif: CSS memungkinkan Anda untuk memilih elemen-elemen yang ingin Anda gayakan. Anda dapat memilih elemen berdasarkan tag, ID, kelas, atribut, atau hierarki. Misalnya, Anda dapat mengatur semua teks dalam elemen <p> menjadi berwarna merah.</p>
+
+Gaya: CSS memungkinkan Anda mengatur berbagai properti gaya untuk elemen, seperti warna teks, warna latar belakang, ukuran font, jarak antara elemen, dan banyak lagi. Ini memungkinkan Anda untuk mengubah tampilan dan gaya halaman web dengan mudah.
+
+Pewarisan: CSS mendukung konsep pewarisan, yang berarti Anda dapat mengatur gaya di elemen induk, dan elemen-elemen anaknya akan mewarisi gaya tersebut, kecuali jika Anda mengaturnya dengan properti CSS yang berbeda.
+
+Eksternal: Anda dapat menyimpan kode CSS dalam file eksternal terpisah dari halaman HTML Anda. Ini membantu dalam pemeliharaan dan pengelolaan kode gaya Anda. Anda menghubungkan file CSS eksternal dengan tag dalam dokumen HTML.
+
+Prioritas: CSS mengikuti aturan prioritas yang berarti Anda dapat mengatur gaya elemen secara berurutan. Ini menciptakan konsep "kaskade," di mana gaya-gaya yang berkonflik dapat diatasi dengan aturan yang sesuai.
+
+Kaskade: CSS mendukung konsep kaskade, di mana berbagai gaya yang berlaku pada elemen diterapkan secara berurutan berdasarkan spesifikasi dan prioritasnya. Ini memungkinkan Anda untuk mengontrol bagaimana elemen akan ditampilkan jika ada banyak aturan gaya yang berlaku padanya.
+
+Responsif: CSS memungkinkan Anda untuk membuat tampilan yang responsif, yang akan menyesuaikan diri dengan ukuran layar pengguna, seperti perangkat seluler atau desktop, dengan bantuan media queries.
+
+Animasi: Anda dapat menggunakan CSS untuk membuat animasi sederhana dalam halaman web. Ini termasuk transisi, transformasi, dan animasi kunci (keyframes) yang memungkinkan elemen-elemen bergerak dan berubah dalam waktu tertentu.
+
+Browser Compatibility: CSS didukung oleh semua browser utama, dan pembaruan spesifikasi CSS terus berlangsung untuk memperbaiki dan memperluas kemampuan CSS.
+
+CSS adalah komponen kunci dalam pengembangan web modern, memungkinkan pengembang untuk mengontrol tampilan dan tata letak halaman web dengan lebih baik, serta membuat halaman web yang lebih menarik dan responsif.</item>
+        //css
+        <item>HTML adalah singkatan dari HyperText Markup Language, yang merupakan bahasa dasar yang digunakan untuk membuat halaman web. Dalam HTML, Anda menggunakan "tag" atau kode khusus yang ditempatkan di dalam tanda kurung sudut (&lt;&gt;) untuk menandai elemen-elemen pada halaman web.
+Setiap elemen HTML memiliki peran tertentu. Misalnya, tag &lt; p &gt; digunakan untuk membuat paragraf teks, tag &lt; img &gt; digunakan untuk menampilkan gambar, dan tag &lt; a &gt; digunakan untuk membuat tautan atau hyperlink ke halaman web lain.
+Dengan menggunakan HTML, Anda dapat mengatur tampilan dan struktur halaman web, menambahkan teks, gambar, video, tautan, dan banyak elemen lainnya. Browser web kemudian membaca dan menampilkan halaman web sesuai dengan instruksi HTML yang diberikan.
+HTML adalah dasar dari hampir semua situs web di internet, dan memahami cara menggunakannya merupakan langkah pertama dalam pengembangan web.
+        </item>
+        //html
+        <item>Java adalah bahasa pemrograman berorientasi objek yang kuat dan platform-agnostik.
+Ini digunakan dalam berbagai aplikasi, termasuk pengembangan perangkat lunak berbasis Android, perangkat lunak perusahaan, dan pengembangan perangkat lunak server-side.
+Java menawarkan manajemen memori otomatis dan keamanan tinggi.Java adalah bahasa pemrograman tingkat tinggi yang memiliki banyak kegunaan, termasuk pengembangan aplikasi desktop, aplikasi web, perangkat lunak server, permainan, perangkat seluler, dan banyak lagi. Berikut adalah beberapa poin penting tentang Java:
+
+Bahasa Pemrograman Tingkat Tinggi: Java adalah bahasa pemrograman tingkat tinggi yang mudah dibaca dan ditulis. Ini menghilangkan kebutuhan untuk mengkhawatirkan detail-detail tingkat rendah, seperti alokasi memori dan manajemen sumber daya langsung.
+
+Platform Mandiri: Java adalah platform mandiri, yang berarti program Java dapat berjalan di berbagai platform tanpa perlu mengubah kode. Ini dicapai melalui penggunaan mesin virtual Java (JVM), yang menerjemahkan kode Java menjadi kode mesin yang dapat dijalankan di platform yang berbeda.
+
+Objek-Oriented: Java adalah bahasa pemrograman berorientasi objek. Semua kode dalam Java dibungkus dalam objek, yang memungkinkan untuk mengorganisasi dan mengelola kode dengan lebih baik.
+
+Sintaksis yang Bersih: Java memiliki sintaksis yang bersih dan konsisten, yang memudahkan pengembang dalam membaca dan menulis kode.
+
+Pustaka Kelas Kaya: Java dilengkapi dengan pustaka kelas (API) yang kaya, yang mencakup banyak kelas dan metode yang dapat digunakan untuk berbagai tugas. Ini mengurangi kebutuhan untuk menulis kode dari awal dan mempercepat pengembangan.
+
+Keamanan: Java memiliki fitur-fitur keamanan yang kuat yang membantu melindungi sistem dari serangan, termasuk sandboxing dan mekanisme manajemen memori otomatis.
+
+Kompilasi dan Interpretasi: Java adalah bahasa yang dikompilasi dan diinterpretasikan. Kode Java dikompilasi menjadi bytecode oleh kompilator Java, dan kemudian bytecode tersebut dijalankan di mesin virtual Java (JVM).
+
+Portabilitas: Kode Java yang benar-benar dibuat dengan baik dapat dijalankan di berbagai platform tanpa perlu perubahan. Ini memudahkan pengembangan perangkat lunak yang bersifat lintas platform.
+
+Pengembangan Aplikasi Berbasis Web: Java digunakan secara luas dalam pengembangan aplikasi web dengan teknologi seperti JavaServer Pages (JSP) dan servlet. Java juga digunakan dalam pengembangan aplikasi perusahaan berbasis web.
+
+Permainan: Java digunakan dalam pengembangan permainan dengan bantuan platform seperti JavaFX.
+
+Perangkat Seluler: Java digunakan dalam pengembangan aplikasi perangkat seluler dengan menggunakan platform seperti Android (yang menggunakan bahasa Java dalam pengembangan aplikasi).
+
+Perangkat Lunak Server: Java sering digunakan dalam pengembangan perangkat lunak server untuk aplikasi yang memerlukan kinerja tinggi dan keandalan.
+
+Java memiliki komunitas pengembang yang besar dan kuat serta banyak alat dan pustaka yang tersedia untuk memfasilitasi pengembangan. Ini membuatnya menjadi salah satu bahasa pemrograman yang paling populer dan relevan di dunia pengembangan perangkat lunak.</item>
+        //java
+        <item>JavaScript adalah bahasa pemrograman yang dijalankan di sisi klien dalam pengembangan web.
+            Fungsinya mencakup mengendalikan elemen-elemen HTML, memberikan validasi formulir,
+            menciptakan animasi, serta berkomunikasi dengan server web. Dengan JavaScript,
+            pengembang web dapat membuat halaman web yang lebih interaktif dan responsif,
+            meningkatkan pengalaman pengguna secara signifikan.
+            JavaScript adalah bahasa pemrograman yang digunakan di sisi klien dalam pengembangan web.
+            Fungsinya adalah memberikan interaktivitas pada halaman web,
+            seperti mengubah elemen HTML, validasi formulir, membuat animasi, dan berkomunikasi dengan server web.
+            Dengan JavaScript,pengembang dapat menciptakan pengalaman pengguna yang lebih dinamis dan interaktif,
+            meningkatkan daya tarik dan fungsionalitas situs web. </item>
+        //javasript
+        <item>Kotlin adalah bahasa pemrograman yang sepenuhnya kompatibel dengan Java dan populer dalam pengembangan aplikasi Android.
+Ini menawarkan sintaks yang lebih ekspresif dan kesalahan nol terkait dengan null, yang membuatnya lebih aman dan produktif.Kotlin adalah bahasa pemrograman yang relatif baru yang dirancang untuk menjalankan pada platform Java Virtual Machine (JVM), serta kompatibel dengan Android. Berikut adalah beberapa poin penting tentang Kotlin:
+Kotlin telah menjadi semakin populer dalam beberapa tahun terakhir, terutama dalam pengembangan Android, tetapi juga dalam pengembangan aplikasi server dan berbagai bidang lainnya. Itu adalah bahasa yang kuat, modern, dan sangat sesuai untuk pengembangan perangkat lunak.</item>
+        //kotlin
+        <item>MySQL adalah sistem manajemen basis data relasional (RDBMS) yang digunakan untuk menyimpan, mengelola, dan mengambil data.
+            Ini digunakan dalam aplikasi web, aplikasi bisnis, dan banyak aplikasi lainnya untuk mempertahankan dan mengakses data dengan efisien.MySQL adalah sistem manajemen basis data (Database Management System - DBMS) yang populer dan open source. Ini digunakan untuk menyimpan, mengelola, dan mengakses data dalam berbagai jenis aplikasi, mulai dari aplikasi web hingga aplikasi bisnis. Berikut adalah beberapa poin penting tentang MySQL:
+            MySQL digunakan dalam berbagai jenis proyek, mulai dari situs web kecil hingga sistem perusahaan yang besar. Ini adalah salah satu DBMS open source yang paling umum digunakan di dunia.</item>
+        //mysql
+        <item>PHP adalah bahasa pemrograman server-side yang digunakan untuk menghasilkan halaman web dinamis.
+Ini berinteraksi dengan basis data, mengelola sesi pengguna, dan melakukan banyak tugas server-side lainnya.PHP (Hypertext Preprocessor) adalah bahasa pemrograman server-side yang banyak digunakan untuk pengembangan web. PHP dirancang khusus untuk membuat halaman web dinamis dan berinteraksi dengan basis data. Berikut adalah beberapa poin penting tentang PHP:
+PHP digunakan dalam berbagai aplikasi web, mulai dari situs web pribadi hingga aplikasi web perusahaan yang besar. Dengan dukungan yang kuat dari komunitas pengembang dan basis pengguna yang besar, PHP tetap menjadi salah satu pilihan utama untuk pengembangan web server-side.</item>
+        //php
+        <item>Python adalah bahasa pemrograman yang sangat terbaca dan mudah dipahami, yang membuatnya cocok untuk pemula.
+Ini memiliki banyak pustaka dan kerangka kerja yang mendukung berbagai aplikasi seperti pengembangan web (Django, Flask), analisis data (pandas, numpy), kecerdasan buatan (TensorFlow, PyTorch), dan masih banyak lagi.
+Python adalah bahasa yang serbaguna dan digunakan dalam berbagai konteks, termasuk pengembangan web, ilmu data, pengembangan perangkat lunak desktop, dan pengembangan perangkat lunak sumber terbuka. Python adalah bahasa pemrograman tingkat tinggi yang dikenal dengan sintaksis yang mudah dibaca dan dikodekan. Berikut adalah beberapa poin penting tentang Python:
+Python adalah salah satu bahasa pemrograman yang paling populer dan relevan saat ini, dan ini adalah pilihan yang sangat baik bagi pemula dan pengembang berpengalaman.</item>
+        //python
+        <item>React adalah perpustakaan JavaScript yang digunakan untuk membangun antarmuka pengguna yang responsif.
+            Ini sering digunakan dalam pengembangan aplikasi web dan aplikasi seluler dengan React Native.React adalah sebuah pustaka (library) JavaScript yang digunakan untuk membangun antarmuka pengguna (UI) dalam pengembangan aplikasi web. React dikembangkan oleh Facebook dan sekarang dikelola oleh Facebook dan komunitas open source yang luas. Berikut adalah beberapa poin penting tentang React:
+            React digunakan secara luas dalam pengembangan aplikasi web modern. Dengan pendekatan yang berfokus pada komponen dan kemampuan untuk membuat aplikasi yang kinerjanya tinggi, React telah menjadi salah satu pilihan utama bagi pengembang web di seluruh dunia.</item>
+        //react
+        <item>Ruby adalah bahasa pemrograman berorientasi objek yang berfokus pada kesederhanaan dan produktivitas.
+Ruby sangat terkenal karena kerangka kerja Ruby on Rails, yang digunakan untuk pengembangan aplikasi web berbasis model-view-controller (MVC).Ruby adalah bahasa pemrograman yang sering digunakan untuk pengembangan web dan aplikasi lainnya. Dirancang oleh Yukihiro Matsumoto pada tahun 1995, Ruby dikenal dengan sintaksis yang mudah dibaca dan dinilai tinggi dalam hal produktivitas pengembangan. Berikut adalah beberapa poin penting tentang Ruby:
+Ruby adalah bahasa yang sangat cocok untuk pengembang yang menghargai ekspresi code yang sederhana, bahasa yang fleksibel, dan produktivitas tinggi. Dengan ekosistem yang kuat dan framework seperti Ruby on Rails, Ruby tetap menjadi salah satu pilihan utama untuk pengembangan web dan aplikasi lainnya.</item>
+        //ruby
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/cpp</item>
+        <item>@drawable/css</item>
+        <item>@drawable/html</item>
+        <item>@drawable/java</item>
+        <item>@drawable/javascript</item>
+        <item>@drawable/kotlin</item>
+        <item>@drawable/mysql</item>
+        <item>@drawable/php</item>
+        <item>@drawable/python</item>
+        <item>@drawable/react</item>
+        <item>@drawable/ruby</item>
+    </integer-array>
+
+</resources>
